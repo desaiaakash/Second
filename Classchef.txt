@@ -1,0 +1,22 @@
+https://www.digitalocean.com/community/tutorials/how-to-create-simple-chef-cookbooks-to-manage-infrastructure-on-ubuntu
+
+github.com
+
+wget url/epel
+
+techhawk.in
+
+rpm -ivh epelname
+
+yum install openss
+
+yum install cheff-server
+
+192.168.122.1 CentOS
+
+download epel repo for centos 7
+
+Ansible Learning Link:- http://docs.ansible.com/ansible/playbooks_intro.html
+
+Jira:- https://confluence.atlassian.com/jirasoftwareserver071/getting-started-with-jira-software-800706339.html
+
